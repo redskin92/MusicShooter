@@ -1,0 +1,6 @@
+/MusicShooter/Library/
+/MusicShooter/Logs/
+/MusicShooter/ProjectSettings/
+/MusicShooter/UserSettings/
+*.sln
+*.vsconfig
