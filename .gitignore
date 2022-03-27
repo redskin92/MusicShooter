@@ -2,5 +2,9 @@
 /MusicShooter/Logs/
 /MusicShooter/ProjectSettings/
 /MusicShooter/UserSettings/
+/MusicShooter/Temp/
+/MusicShooter/obj/
+*.vs
 *.sln
 *.vsconfig
+*.csproj
